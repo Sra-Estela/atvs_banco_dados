@@ -1,6 +1,6 @@
 # CREATE ALTER TABLE:
 
-```
+```MySQL
 create database `db_loja`;
 
 use `db_loja`;
