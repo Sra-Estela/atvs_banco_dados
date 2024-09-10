@@ -1,6 +1,6 @@
 # WEB + Banco de Dados
 
-````Python
+```Python
 from flask import Flask, jsonify
 import pymysql
 
